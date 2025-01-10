@@ -1,1 +1,11 @@
+Step 01:
+Open MySQL client command line 
+Enter Password 
+sql > select @@port;
 
+Step 02:
+Search Services 
+stop MySQL server
+
+Step 03:
+Go Programdata -> MySQL -> MySQL server -> my.ini -> properties -> security -> system -> full control 
